@@ -18,9 +18,9 @@
 
 [WobbleView](https://github.com/inFullMobile/WobbleView)
 --
-> 
+> WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions.
 
-![](https://github.com/inFullMobile/WobbleView/raw/master/wobble.gif?raw=true)
+![](https://raw.githubusercontent.com/inFullMobile/WobbleView/master/wobble.gif)
 
 [Splitflap](https://github.com/yannickl/Splitflap)
 --
