@@ -81,3 +81,9 @@
 > Cool wave like transition between two or more UICollectionView
 
 ![](https://raw.githubusercontent.com/CezaryKopacz/CKWaveCollectionViewTransition/master/anim.gif)
+
+[ElasticTransition](https://github.com/lkzhao/ElasticTransition)
+--
+> A UIKit custom transition that simulates an elastic drag. Written in Swift.
+
+![](https://github.com/lkzhao/ElasticTransition/raw/master/imgs/demo.gif?raw=true)
