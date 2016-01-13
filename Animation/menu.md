@@ -42,5 +42,3 @@ You can easily add awesome animated context menu to your app
 [AwesomeMenu](https://github.com/levey/AwesomeMenu)
 --
 > Path 2.0 menu using CoreAnimation :)
-
-![]()
