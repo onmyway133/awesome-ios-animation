@@ -27,3 +27,9 @@
 > Simple horizontal progress bar with animation
 
 ![](https://github.com/AliThink/HorizontalProgress/raw/master/HorizontalProgress-demo.gif)
+
+[FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)
+--
+> Rocket Loader Collection for iOS app
+
+![](https://camo.githubusercontent.com/efc8fa347b8d0e3b8054a9ee240364562a586e41/687474703a2f2f6e676869617472616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031352f30312f48616e6477726974696e672e676966)
