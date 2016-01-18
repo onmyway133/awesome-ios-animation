@@ -27,3 +27,9 @@
 > Android PagerTabStrip for iOS.
 
 ![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/XLPagerTabStrip/Demo/PagerSlidingTabStrip.gif)
+
+[PageMenu](https://github.com/uacaps/PageMenu)
+--
+> A paging menu controller built from other view controllers placed inside a scroll view
+
+![](https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif)
