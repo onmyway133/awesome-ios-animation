@@ -1,7 +1,7 @@
 # ios-animation
 A collection of iOS animation repos
 
-![](http://www.pbh2.com/wordpress/wp-content/uploads/2012/08/funniest-dog-gifs-dogs-jump-rope.gif.webm)
+![](http://s3.amazonaws.com/barkpost-assets/50+GIFs/1.gif)
 
 - [UI](Animation/ui.md)
 - [Transition](Animation/transition.md)
