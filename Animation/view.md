@@ -27,3 +27,9 @@
 > A simple split-flap display for your Swift applications
 
 ![](https://camo.githubusercontent.com/165f8472a8282065b9586b95c49a67b9dd081a00/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f73706c6974666c61702d6c6f676f2e676966)
+
+[SAConfettiView](https://github.com/sudeepag/SAConfettiView)
+--
+> SAConfettiView is the easiest way to add fun, multi-colored confetti to your application and make users feel rewarded
+
+![](https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif)
