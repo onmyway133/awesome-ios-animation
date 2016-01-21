@@ -33,3 +33,9 @@
 > Rocket Loader Collection for iOS app
 
 ![](https://camo.githubusercontent.com/efc8fa347b8d0e3b8054a9ee240364562a586e41/687474703a2f2f6e676869617472616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031352f30312f48616e6477726974696e672e676966)
+
+[SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)
+--
+> A beautiful activity indicator and modal alert written in Swift (originally developed for http://doodledoodle.io) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest
+
+![](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
