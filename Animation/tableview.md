@@ -15,3 +15,9 @@
 > Folding cell
 
 ![](https://github.com/Ramotion/folding-cell/raw/master/Screenshots/folding-cell.gif)
+
+[Ultravisual](https://github.com/micpringle/Ultravisual)
+--
+> Ultravisual-like Custom Collection View Layout http://raywenderlich.com
+
+![](https://camo.githubusercontent.com/973a59211075b387f5225e4260f43b942c2fd052/68747470733a2f2f692e76696d656f63646e2e636f6d2f766964656f2f3531313836393936312e6a70673f6d773d393630266d683d373230)
