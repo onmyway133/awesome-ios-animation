@@ -9,3 +9,9 @@
 > An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images
 
 ![](https://github.com/MP0w/MPSkewed/raw/master/img/inaction2.gif)
+
+[folding-cell](https://github.com/Ramotion/folding-cell)
+--
+> Folding cell
+
+![](https://github.com/Ramotion/folding-cell/raw/master/Screenshots/folding-cell.gif)
