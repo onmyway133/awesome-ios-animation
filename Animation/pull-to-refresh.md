@@ -39,3 +39,8 @@
 > One gesture, many actions. An evolution of Pull to Refresh
 
 ![](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
+
+[BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh)
+> Play BreakOut while loading - A playable pull to refresh view using SpriteKit
+
+![](https://raw.githubusercontent.com/dasdom/BreakOutToRefresh/master/Example/PullToRefreshDemo/what.gif)
