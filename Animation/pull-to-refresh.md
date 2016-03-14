@@ -44,3 +44,9 @@
 > Play BreakOut while loading - A playable pull to refresh view using SpriteKit
 
 ![](https://raw.githubusercontent.com/dasdom/BreakOutToRefresh/master/Example/PullToRefreshDemo/what.gif)
+
+![ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)
+> Implementation of Zee Young's Dribbble animation
+
+![](https://github.com/fruitcoder/ReplaceAnimation/raw/master/RefreshSuccess.gif)
+
