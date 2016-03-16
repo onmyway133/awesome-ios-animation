@@ -21,3 +21,8 @@
 > Yet another animated toggle
 
 ![](https://github.com/kovpas/PMZSwitch/raw/master/Assets/switch.gif)
+
+[paper-switch](https://github.com/Ramotion/paper-switch)
+> RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on
+
+![](https://github.com/Ramotion/paper-switch/raw/master/screenshot.gif)
