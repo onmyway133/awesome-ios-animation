@@ -27,3 +27,8 @@
 > An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
 
 ![](https://github.com/mamaral/Onboard/raw/master/Screenshots/city.gif)
+
+[GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough)
+> A UICollectionView backed drop-in component for introduction views
+
+![](https://github.com/GnosisHub/GHWalkThrough/raw/master/wthorizontal.gif)
