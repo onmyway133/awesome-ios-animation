@@ -42,3 +42,8 @@ You can easily add awesome animated context menu to your app
 [AwesomeMenu](https://github.com/levey/AwesomeMenu)
 --
 > Path 2.0 menu using CoreAnimation :)
+
+[cariocamenu](https://github.com/arn00s/cariocamenu)
+> The fastest zero-tap iOS menu.
+
+![](https://raw.githubusercontent.com/arn00s/cariocamenu/master/cariocamenu.gif)
