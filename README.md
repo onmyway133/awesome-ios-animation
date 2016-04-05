@@ -1,4 +1,4 @@
-# ios-animation
+# fantastic-ios-animation
 A collection of iOS animation repos
 
 ![](http://s3.amazonaws.com/barkpost-assets/50+GIFs/1.gif)
