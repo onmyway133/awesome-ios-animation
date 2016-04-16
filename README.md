@@ -23,6 +23,7 @@ A collection of iOS animation repos
 - [Search](Animation/search.md)
 - [Page Control](Animation/page-control.md)
 - [Card](Animation/card.md)
+- [Rating](Animation/rating.md)
 - [Gallery](Animation/gallery.md)
 - [Popup](Animation/popup.md)
 - [Tabbar](Animation/tabbar.md)
