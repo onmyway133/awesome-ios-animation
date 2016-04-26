@@ -21,3 +21,9 @@
 > Secret app like text animation
 
 ![](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
+
+[GlitchLabel](https://github.com/kciter/GlitchLabel)
+--
+> G..lit...c...hing UILa..bel fo..r iO...S
+
+![](https://github.com/kciter/GlitchLabel/raw/master/Images/preview.gif)
