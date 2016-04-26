@@ -32,3 +32,9 @@
 > An easy to use, customizable replacement for UISegmentedControl & UISwitch.
 
 ![](https://camo.githubusercontent.com/5a35efc4c67e0908674ccf83531a57bac3761044/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f475246784145616f41416a716e5a36672f67697068792e676966)
+
+[AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch)
+--
+> Swift subclass of the UISwitch which paints over the parent view
+
+![](https://github.com/alsedi/AnimatedSwitch/raw/master/animation2.gif)
