@@ -26,10 +26,16 @@
 --
 > Android PagerTabStrip for iOS.
 
-![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/XLPagerTabStrip/Demo/PagerSlidingTabStrip.gif)
+![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/barButton.gif)
 
 [PageMenu](https://github.com/uacaps/PageMenu)
 --
 > A paging menu controller built from other view controllers placed inside a scroll view
 
 ![](https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif)
+
+[TabDrawer](https://github.com/winslowdibona/TabDrawer)
+--
+> TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
+
+![](https://github.com/winslowdibona/TabDrawer/raw/master/OptionsExample.gif)
