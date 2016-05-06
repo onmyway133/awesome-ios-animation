@@ -32,6 +32,7 @@ Onboarding
 ![](https://github.com/mamaral/Onboard/raw/master/Screenshots/city.gif)
 
 [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough)
+--
 > A UICollectionView backed drop-in component for introduction views
 
 ![](https://github.com/GnosisHub/GHWalkThrough/raw/master/wthorizontal.gif)
