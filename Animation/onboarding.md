@@ -1,3 +1,6 @@
+Onboarding
+==
+
 [Instructions](https://github.com/ephread/Instructions)
 --
 > Create walthroughs and coach mark tours in a simple way.
@@ -32,3 +35,9 @@
 > A UICollectionView backed drop-in component for introduction views
 
 ![](https://github.com/GnosisHub/GHWalkThrough/raw/master/wthorizontal.gif)
+
+[paper-onboarding](https://github.com/Ramotion/paper-onboarding)
+--
+> PaperOnboarding is a material design slider
+
+![](https://github.com/Ramotion/paper-onboarding/raw/master/preview.gif)
