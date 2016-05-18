@@ -6,3 +6,4 @@ Posts
 - [Interface Animation. The Force of Motion](http://tubikstudio.com/interface-animation-the-force-of-motion/)
 - [Eat. Drink. Track. How We Created Eat Fit iOS Animation Inspired by Google Fit](https://yalantis.com/blog/eat-drink-track-how-we-created-eat-fit-animation-inspired-by-google-fit/)
 - [iOS Bubble Animation Tutorial](http://www.jackrabbitmobile.com/design/ios-bubble-animation-tutorial/)
+- [A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION)
