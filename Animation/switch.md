@@ -39,3 +39,9 @@
 > Swift subclass of the UISwitch which paints over the parent view
 
 ![](https://github.com/alsedi/AnimatedSwitch/raw/master/animation2.gif)
+
+[DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch)
+--
+> A segment switcher with dynamic text mask effect
+
+![](https://github.com/KittenYang/DynamicMaskSegmentSwitch/raw/master/maskSwitcher.gif)
