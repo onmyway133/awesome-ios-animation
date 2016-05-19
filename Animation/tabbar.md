@@ -39,3 +39,15 @@
 > TabDrawer is a customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, or display a customizable drawer.
 
 ![](https://github.com/winslowdibona/TabDrawer/raw/master/OptionsExample.gif)
+
+[BATabBarController](https://github.com/antiguab/BATabBarController)
+--
+> A TabBarController with a unique animation for selection
+
+![](https://raw.githubusercontent.com/antiguab/BATabBarController/master/readmeAssets/gif2.gif)
+
+[Tabby](https://github.com/hyperoslo/Tabby)
+--
+> Tabby is the new solution for your tab bar.
+
+![]()
