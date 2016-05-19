@@ -88,7 +88,14 @@
 
 ![](https://github.com/lkzhao/ElasticTransition/raw/master/imgs/demo.gif?raw=true)
 
-KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
+[KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
+--
 > A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 
 ![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Before1.gif)
+
+[ElasticTransition](https://github.com/lkzhao/ElasticTransition)
+--
+> A UIKit custom transition that simulates an elastic drag. Written in Swift.
+
+![](https://github.com/lkzhao/ElasticTransition/raw/master/imgs/demo.gif?raw=true)
