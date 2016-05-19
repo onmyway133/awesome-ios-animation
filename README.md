@@ -15,6 +15,7 @@ A collection of iOS animation repos
 - [Button](Animation/button.md)
 - [Switch](Animation/switch.md)
 - [Menu](Animation/menu.md)
+- [Dropdown](Animation/dropdown.md)
 - [TableView](Animation/tableview.md)
 - [Progress](Animation/progress.md)
 - [Layout](Animation/layout.md)
