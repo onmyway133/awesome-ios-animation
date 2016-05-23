@@ -48,3 +48,9 @@ You can easily add awesome animated context menu to your app
 > The fastest zero-tap iOS menu.
 
 ![](https://raw.githubusercontent.com/arn00s/cariocamenu/master/cariocamenu.gif)
+
+[FlowingMenu](https://github.com/yannickl/FlowingMenu)
+--
+> Interactive view transition to display menus with flowing and bouncing effects in Swift
+
+![](https://camo.githubusercontent.com/59f8644f915299e0e80c09948d3db8efd8c9beae/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f666c6f77696e676d656e752e676966)
