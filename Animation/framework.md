@@ -7,3 +7,4 @@ Framework
 - [Walker](https://github.com/RamonGilabert/Walker) Each step you take reveals a new horizon. You have taken the first step today.
 - [Shapes](https://github.com/DenHeadless/Shapes) Framework for drawing and animating shaped views on iOS
 - [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) Easy to read and write chainable animations in Objective-C
+- [SwiftSVG](https://github.com/mchoe/SwiftSVG) A single pass SVG parser with multiple interface options
