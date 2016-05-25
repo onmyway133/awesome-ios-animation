@@ -93,3 +93,9 @@
 > A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 
 ![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Before1.gif)
+
+[CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition)
+--
+> A custom transition inspired by Storehouse iOS app, also support pop gesture.
+
+![](https://camo.githubusercontent.com/0049985e5d37fec98a0f3ccc4fb2c7ec79bcb73d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f434253746f7265486f7573655472616e736974696f6e2e676966)
