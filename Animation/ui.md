@@ -8,9 +8,10 @@
 --
 > A beautiful graphics framework for Material Design in Swift. http://cosmicmind.io
 
-![](https://camo.githubusercontent.com/e59bda52e7855a55268011a05b8a181b5d23d83b/687474703a2f2f7777772e636f736d69636d696e642e696f2f4d4b2f4d6174657269616c536964654e617669676174696f6e56696577436f6e74726f6c6c65722e676966)
+![](https://camo.githubusercontent.com/5517ec8ebf6588672004ab1c059bbb8113c07060/687474703a2f2f7777772e636f736d69636d696e642e696f2f676966732f4170702e676966)
 
 [navigation-stack](https://github.com/Ramotion/navigation-stack)
+--
 > NavigationStack is a stack-modeled navigation controller
 
 ![](https://github.com/Ramotion/navigation-stack/raw/master/Navigation-Stack.gif)
