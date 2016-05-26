@@ -6,6 +6,7 @@ A collection of iOS animation repos
 - [Posts](Animation/posts.md)
 - [Framework](Animation/framework.md)
 - [UI](Animation/ui.md)
+- [Graph/Chart](Animation/graph.md)
 - [Splash](Animation/splash.md)
 - [Alert](Animation/alert.md)
 - [Transition](Animation/transition.md)
