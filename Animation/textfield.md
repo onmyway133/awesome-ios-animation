@@ -9,3 +9,9 @@
 > Custom UITextFields effects inspired by Codrops, built using Swift
 
 ![](https://github.com/raulriera/TextFieldEffects/raw/master/Screenshots/Isao.gif)
+
+[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
+--
+> A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
+
+![](https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/showcase-example.gif)
