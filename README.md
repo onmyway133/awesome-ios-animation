@@ -31,3 +31,7 @@ A collection of iOS animation repos
 - [Popup](Animation/popup.md)
 - [Tabbar](Animation/tabbar.md)
 - [Image Picker/Photo Browser](Animation/photo_browser.md)
+
+Licence
+--
+This project is released under the MIT license. See LICENSE.md.
