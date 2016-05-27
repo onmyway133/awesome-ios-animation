@@ -8,3 +8,10 @@ Posts
 - [iOS Bubble Animation Tutorial](http://www.jackrabbitmobile.com/design/ios-bubble-animation-tutorial/)
 - [A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION)
 - [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)
+- [CALayer](http://calayer.com/)
+
+Books
+==
+
+- [iOS Animations by Tutorials](https://www.raywenderlich.com/store/ios-animations-by-tutorials)
+- [iOS Core Animation: Advanced Techniques](https://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC)
