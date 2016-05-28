@@ -45,3 +45,12 @@
 > Apple TV Parallax effect in Swift.
 
 ![](https://camo.githubusercontent.com/91d78820f4e04385aabc4f27a4a11ae9402721a6/687474703a2f2f692e696d6775722e636f6d2f66764645517a7a2e676966)
+
+[JTNumberScrollAnimatedView](https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
+--
+> Use JTNumberScrollAnimatedView for have a nice animation for display number. It's easy to use, easy to customize.
+
+![](https://raw.githubusercontent.com/jonathantribouharet/JTNumberScrollAnimatedView/master/Screens/example.gif)
+
+
+
