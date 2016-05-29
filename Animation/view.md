@@ -52,5 +52,9 @@
 
 ![](https://raw.githubusercontent.com/jonathantribouharet/JTNumberScrollAnimatedView/master/Screens/example.gif)
 
+[JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation)
+--
+> An Objective-C animation library used to create floating image views.
 
+![](https://camo.githubusercontent.com/fd7734f7565e02f0a735c6fdeaaa75dd4bb2ebe7/687474703a2f2f692e696d6775722e636f6d2f307969617639562e676966)
 
