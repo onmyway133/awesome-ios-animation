@@ -39,3 +39,9 @@
 > A beautiful activity indicator and modal alert written in Swift (originally developed for http://doodledoodle.io) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest
 
 ![](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)
+
+[KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
+--
+> A circular progress view with gradients written in Swift
+
+![](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/screenshot.gif)
