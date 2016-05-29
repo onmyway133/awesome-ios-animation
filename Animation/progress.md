@@ -45,3 +45,9 @@
 > A circular progress view with gradients written in Swift
 
 ![](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/screenshot.gif)
+
+[ARSLineProgress](https://github.com/soberman/ARSLineProgress)
+--
+> iOS progress bar, replacement for the default activity indicator.
+
+![](https://camo.githubusercontent.com/844fa4e1da4498cbcd208a9c0080193a8d42efe8/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f70726f67726573735f776974685f737563636573732e676966)
