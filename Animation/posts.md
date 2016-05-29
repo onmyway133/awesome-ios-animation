@@ -9,6 +9,8 @@ Posts
 - [A-GUIDE-TO-iOS-ANIMATION](https://github.com/KittenYang/A-GUIDE-TO-iOS-ANIMATION)
 - [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)
 - [CALayer](http://calayer.com/)
+- [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
+- [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
 
 Books
 ==
