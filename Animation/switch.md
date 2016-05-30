@@ -45,3 +45,9 @@
 > A segment switcher with dynamic text mask effect
 
 ![](https://github.com/KittenYang/DynamicMaskSegmentSwitch/raw/master/maskSwitcher.gif)
+
+[LLSwitch](https://github.com/lilei644/LLSwitch)
+--
+> This is a funny switch for iOS
+
+![](https://raw.githubusercontent.com/lilei644/LLSwitch/master/Preview/LLSwitchDemo.gif)
