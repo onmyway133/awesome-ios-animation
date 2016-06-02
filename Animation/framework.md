@@ -8,3 +8,4 @@ Framework
 - [Shapes](https://github.com/DenHeadless/Shapes) Framework for drawing and animating shaped views on iOS
 - [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) Easy to read and write chainable animations in Objective-C
 - [SwiftSVG](https://github.com/mchoe/SwiftSVG) A single pass SVG parser with multiple interface options
+- [Stellar](https://github.com/AugustRush/Stellar) A fantastic Physical animation library for swift
