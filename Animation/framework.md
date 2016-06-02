@@ -9,3 +9,5 @@ Framework
 - [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) Easy to read and write chainable animations in Objective-C
 - [SwiftSVG](https://github.com/mchoe/SwiftSVG) A single pass SVG parser with multiple interface options
 - [Stellar](https://github.com/AugustRush/Stellar) A fantastic Physical animation library for swift
+- [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) Animate easy and with less code with Swift
+
