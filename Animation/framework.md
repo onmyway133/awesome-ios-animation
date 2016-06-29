@@ -14,3 +14,9 @@ Framework
 - [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) Animate easy and with less code with Swift
 - [Advance](https://github.com/storehouse/Advance) A powerful animation framework for iOS, tvOS, and OS X. :star:
 - [MotionMachine](https://github.com/poetmountain/MotionMachine) A powerful, elegant, and modular animation library for Swift.
+
+
+Interpolation
+==
+
+- [Popsicle](https://github.com/DavdRoman/Popsicle) Delightful, extensible Swift value interpolation framework
