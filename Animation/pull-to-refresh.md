@@ -57,3 +57,9 @@
 > Inspired by Google Chrome iOS app
 
 ![](https://camo.githubusercontent.com/dbdf82cdf90a8ded67c129b91a558e25aac08eb2/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32313235382f73637265656e73686f74732f323032323836322f6174746163686d656e74732f3335373932302f616e696d6174696f6e2e676966)
+
+[PullToBounce](https://github.com/entotsu/PullToBounce)
+--
+> Animated "Pull To Refresh" Library for UIScrollView
+
+![](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
