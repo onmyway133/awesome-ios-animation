@@ -12,4 +12,4 @@ Alert
 --
 > KRAlertController is a beautiful and easy-to-use alert controller for your iOS written by Swift 2.
 
-![](https://github.com/krimpedance/KRAlertController/Images/styles.png)
+![](https://github.com/krimpedance/KRAlertController/blob/master/Images/styles.png)
