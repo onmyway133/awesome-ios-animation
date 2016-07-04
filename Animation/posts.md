@@ -10,7 +10,6 @@ Posts
 - [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)
 - [CATransaction in Depth](http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html)
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
-- [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
 
 Books
 ==
@@ -23,3 +22,4 @@ Tutorials
 
 - [How to build a nice Hamburger Button transition in Swift](http://robb.is/working-on/a-hamburger-button-transition/)
 - [Youtube play button animation using POP](http://iostuts.io/2015/09/29/youtube-play-button-animation-using-pop/)
+- [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
