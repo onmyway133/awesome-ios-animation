@@ -23,3 +23,4 @@ Tutorials
 - [How to build a nice Hamburger Button transition in Swift](http://robb.is/working-on/a-hamburger-button-transition/)
 - [Youtube play button animation using POP](http://iostuts.io/2015/09/29/youtube-play-button-animation-using-pop/)
 - [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
+- [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
