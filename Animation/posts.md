@@ -22,3 +22,4 @@ Tutorials
 ==
 
 - [How to build a nice Hamburger Button transition in Swift](http://robb.is/working-on/a-hamburger-button-transition/)
+- [Youtube play button animation using POP](http://iostuts.io/2015/09/29/youtube-play-button-animation-using-pop/)
