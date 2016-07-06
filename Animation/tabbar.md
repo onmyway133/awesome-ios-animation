@@ -28,7 +28,7 @@
 
 ![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/barButton.gif)
 
-[PageMenu](https://github.com/uacaps/PageMenu)
+[PageMenu](https://github.com/HighBay/PageMenu)
 --
 > A paging menu controller built from other view controllers placed inside a scroll view
 
