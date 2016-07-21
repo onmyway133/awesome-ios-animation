@@ -27,3 +27,9 @@
 > G..lit...c...hing UILa..bel fo..r iO...S
 
 ![](https://github.com/kciter/GlitchLabel/raw/master/Images/preview.gif)
+
+[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)
+--
+> UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
+
+![](https://github.com/optonaut/ActiveLabel.swift/raw/master/ActiveLabelDemo/demo.gif)
