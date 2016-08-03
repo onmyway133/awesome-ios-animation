@@ -25,3 +25,4 @@ Tutorials
 - [How to Create a Complex Loading Animation in Swift](https://www.raywenderlich.com/102590/how-to-create-a-complex-loading-animation-in-swift)
 - [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
 - [Design Teardown: Stretchy Headers](http://blog.matthewcheok.com/design-teardown-stretchy-headers/)
+- [How To Create an Uber Splash Screen](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
