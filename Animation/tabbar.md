@@ -51,3 +51,9 @@
 > Tabby is the new solution for your tab bar.
 
 ![]()
+
+[ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
+--
+> Inspired by this project on Dribbble https://dribbble.com/shots/2702517-Review-App-Concept
+
+![](https://github.com/Yalantis/ColorMatchTabs/raw/master/Resources/preview.gif)
