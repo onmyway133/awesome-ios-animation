@@ -29,8 +29,8 @@ A collection of iOS animation repos
 - [Rating](Animation/rating.md)
 - [Gallery](Animation/gallery.md)
 - [Popup](Animation/popup.md)
-- [Tabbar](Animation/tabbar.md)
-- [Image Picker/Photo Browser](Animation/photo_browser.md)
+- [Tabbar / Pager](Animation/tabbar.md)
+- [Image Picker / Photo Browser](Animation/photo_browser.md)
 - [Tooltip](Animation/tooltip.md)
 
 Licence
