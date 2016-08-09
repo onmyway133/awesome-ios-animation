@@ -57,3 +57,9 @@
 > Inspired by this project on Dribbble https://dribbble.com/shots/2702517-Review-App-Concept
 
 ![](https://github.com/Yalantis/ColorMatchTabs/raw/master/Resources/preview.gif)
+
+[Segmentio](https://github.com/Yalantis/Segmentio)
+--
+> Animated top/bottom segmented control written in Swift.
+
+![](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
