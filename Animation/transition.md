@@ -105,3 +105,10 @@
 > A simple preview gallery controller
 
 ![](https://raw.githubusercontent.com/Ramotion/preview-transition/master/preview.gif)
+
+[DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher)
+--
+> 
+Custom transition between two collection view layouts
+
+![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
