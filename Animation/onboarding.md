@@ -42,3 +42,9 @@ Onboarding
 > PaperOnboarding is a material design slider
 
 ![](https://github.com/Ramotion/paper-onboarding/raw/master/preview.gif)
+
+[OnboardingKit](https://github.com/Athlee/OnboardingKit)
+--
+> A simple and interactive framework for making iOS onboarding experience easy and fun!
+
+![](https://raw.githubusercontent.com/Athlee/OnboardingKit/master/Assets/onboardingdemox1.png)
