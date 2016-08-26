@@ -112,3 +112,9 @@
 Custom transition between two collection view layouts
 
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
+
+[TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)
+--
+> Animated UIButton of Loading Animation and Transition Animation. Inspired by https://dribbble.com/shots/1945593-Login-Home-Screen
+
+![](https://github.com/entotsu/TKSubmitTransition/raw/master/demo.gif)
