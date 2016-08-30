@@ -9,6 +9,7 @@ A collection of iOS animation repos
 - [Graph/Chart](Animation/graph.md)
 - [Splash](Animation/splash.md)
 - [Alert](Animation/alert.md)
+- [Message](Animation/message.md)
 - [Transition](Animation/transition.md)
 - [View](Animation/view.md)
 - [Label](Animation/label.md)
