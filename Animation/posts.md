@@ -11,6 +11,11 @@ Posts
 - [CATransaction in Depth](http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html)
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
 
+Videos
+==
+
+- [Bring Your App To Life with CALayers](https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/)
+
 Books
 ==
 
