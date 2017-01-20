@@ -33,3 +33,9 @@
 > UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 
 ![](https://github.com/optonaut/ActiveLabel.swift/raw/master/ActiveLabelDemo/demo.gif)
+
+[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
+--
+> Simple countdown UILabel with morphing animation, and some useful function.
+
+![](https://github.com/suzuki-0000/CountdownLabel/raw/master/Screenshots/example01.gif)
