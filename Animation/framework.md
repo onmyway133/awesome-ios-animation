@@ -17,6 +17,7 @@ Framework
 - [Keyframes](https://github.com/facebookincubator/Keyframes) A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices. :rocket:
 - [Material](https://github.com/CosmicMind/Material) Material is an animation and graphics framework that is used to create beautiful applications
 - [Hero](https://github.com/lkzhao/Hero) Elegant transition library for iOS, written in Swift.
+- [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations http://airbnb.design/lottie/
 
 Interpolation
 ==
