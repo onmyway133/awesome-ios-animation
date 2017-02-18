@@ -21,3 +21,9 @@
 > The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 
 ![](https://cloud.githubusercontent.com/assets/474/3419095/25b4de9e-fe56-11e3-9b98-690319d736ce.png)
+
+[AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
+--
+> A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
+
+![](https://camo.githubusercontent.com/c705b49cacffff94683ce416259063bd5227f5e4/687474703a2f2f692e696d6775722e636f6d2f6c4c6f6f5851372e676966)
