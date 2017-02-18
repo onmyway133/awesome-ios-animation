@@ -2,10 +2,16 @@
 --
 > A hamburger button transition
 
-![](https://camo.githubusercontent.com/b6420e91ec22de8abe30ee2010e8276e4b55a47f/687474703a2f2f726f62622e69732f696d672f68616d6275726765722d627574746f6e2e676966)
+![](https://d13yacurqjgara.cloudfront.net/users/107759/screenshots/1623679/menu.gif)
 
 [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 --
 > Cute Animated Button written in Swift.
 
 ![](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
+
+[WCLShineButton](https://github.com/631106979/WCLShineButton)
+--
+> This is a UI lib for iOS. Effects like shining.
+
+![](https://github.com/631106979/WCLShineButton/raw/master/DemoGif.gif)
