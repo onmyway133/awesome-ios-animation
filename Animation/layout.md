@@ -22,7 +22,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/474/3419095/25b4de9e-fe56-11e3-9b98-690319d736ce.png)
 
-[AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
+[AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) :rocket:
 --
 > A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 
