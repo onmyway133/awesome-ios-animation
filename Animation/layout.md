@@ -27,3 +27,9 @@
 > A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 
 ![](https://camo.githubusercontent.com/c705b49cacffff94683ce416259063bd5227f5e4/687474703a2f2f692e696d6775722e636f6d2f6c4c6f6f5851372e676966)
+
+[CPCollectionViewKit](https://github.com/ParsifalC/CPCollectionViewKit)
+--
+> Interesting UICollectionView layouts and transitions
+
+![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewCardLayoutDemo/CardLayoutRotateinout.gif?raw=true)
