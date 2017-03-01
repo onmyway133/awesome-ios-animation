@@ -40,3 +40,9 @@
 > MXCardLayout reproduces the behavior seen in iOS9's multitasking switcher.
 
 ![](https://github.com/zqpmaster/MXCardLayout/blob/master/MXCardLayout.gif?raw=true))
+
+[CardSlider](https://github.com/saoudrizwan/CardSlider)
+--
+> Innovative twist to Tinder cards for iOS.
+
+![](https://cloud.githubusercontent.com/assets/7799382/23379940/ba3b91fa-fced-11e6-9639-ff50538a99d9.gif)
