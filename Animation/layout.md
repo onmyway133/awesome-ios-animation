@@ -32,4 +32,4 @@
 --
 > Interesting UICollectionView layouts and transitions
 
-![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewCardLayoutDemo/CardLayoutRotateinout.gif?raw=true)
+![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewTransitionDemo/TransitionFlowAndStage.gif?raw=true)
