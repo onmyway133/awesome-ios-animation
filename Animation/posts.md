@@ -31,3 +31,4 @@ Tutorials
 - [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
 - [Design Teardown: Stretchy Headers](http://blog.matthewcheok.com/design-teardown-stretchy-headers/)
 - [How To Create an Uber Splash Screen](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
+- [Case Study: Toonie. Coding UI Animation](https://uxplanet.org/case-study-toonie-coding-ui-animation-68a10323ec0a#.jnyzotgwq)
