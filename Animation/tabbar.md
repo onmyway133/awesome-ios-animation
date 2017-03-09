@@ -69,3 +69,9 @@
 > FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 
 ![](https://cloud.githubusercontent.com/assets/5186464/22688057/9003d880-ed65-11e6-882e-4587c97c8878.gif)
+
+[ESTabBarController](https://github.com/eggswift/ESTabBarController)
+--
+> ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
+
+![](https://github.com/eggswift/ESTabBarController/raw/master/Resources/LottieGif.gif)
