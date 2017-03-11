@@ -39,3 +39,9 @@
 > Simple countdown UILabel with morphing animation, and some useful function.
 
 ![](https://github.com/suzuki-0000/CountdownLabel/raw/master/Screenshots/example01.gif)
+
+[LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
+--
+> Graceful morphing effects for UILabel written in Swift.
+
+![](https://cloud.githubusercontent.com/assets/219689/3594949/815cd3e8-0caa-11e4-9738-278a9c959478.gif)
