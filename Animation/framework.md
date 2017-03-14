@@ -19,6 +19,7 @@ Framework
 - [Hero](https://github.com/lkzhao/Hero) Elegant transition library for iOS, written in Swift.
 - [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations http://airbnb.design/lottie/ http://www.lottiefiles.com/ :rocket::rocket::rocket::rocket::rocket:
 - [Motion](https://github.com/CosmicMind/Motion) Seamless animation and transition in Swift
+- [spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 
 Interpolation
 ==
