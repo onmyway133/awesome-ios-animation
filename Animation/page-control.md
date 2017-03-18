@@ -9,3 +9,9 @@
 > A custom UIPageControl with multiple animations
 
 ![](https://github.com/KittenYang/KYAnimatedPageControl/raw/master/gooeyCircle.gif)
+
+[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)
+--
+> A set of cool animated page controls written in Swift to replace boring UIPageControl.
+
+![](https://github.com/ChiliLabs/CHIPageControl/raw/master/Images/demo.gif)
