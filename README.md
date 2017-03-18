@@ -16,6 +16,7 @@ A collection of iOS animation repos
 - [TextField](Animation/textfield.md)
 - [Button](Animation/button.md)
 - [Switch](Animation/switch.md)
+- [Slider](Animation/slider.md)
 - [Menu](Animation/menu.md)
 - [Permission](Animation/permission.md)
 - [Dropdown](Animation/dropdown.md)
