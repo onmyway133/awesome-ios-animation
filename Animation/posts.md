@@ -32,3 +32,4 @@ Tutorials
 - [Design Teardown: Stretchy Headers](http://blog.matthewcheok.com/design-teardown-stretchy-headers/)
 - [How To Create an Uber Splash Screen](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
 - [Case Study: Toonie. Coding UI Animation](https://uxplanet.org/case-study-toonie-coding-ui-animation-68a10323ec0a#.jnyzotgwq)
+- [Recreating Skype's Action Sheet Animation](http://holko.pl/2014/06/26/recreating-skypes-action-sheet-animation/)
