@@ -20,6 +20,7 @@ Framework
 - [lottie-ios](https://github.com/airbnb/lottie-ios) An iOS library to natively render After Effects vector animations http://airbnb.design/lottie/ http://www.lottiefiles.com/ :rocket::rocket::rocket::rocket::rocket:
 - [Motion](https://github.com/CosmicMind/Motion) Seamless animation and transition in Swift
 - [spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
+- [Dance](https://github.com/saoudrizwan/Dance) A radical & elegant animation library for iOS.
 
 Interpolation
 ==
