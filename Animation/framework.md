@@ -21,6 +21,7 @@ Framework
 - [Motion](https://github.com/CosmicMind/Motion) Seamless animation and transition in Swift
 - [spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 - [Dance](https://github.com/saoudrizwan/Dance) A radical & elegant animation library for iOS.
+- [material-motion-swift](https://github.com/material-motion/material-motion-swift) Reactive motion for iOS.
 
 Interpolation
 ==
