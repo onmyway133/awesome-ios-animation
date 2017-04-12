@@ -33,3 +33,9 @@
 > Interesting UICollectionView layouts and transitions
 
 ![](https://github.com/ParsifalC/CPCollectionViewKit/raw/master/Demos/CPCollectionViewTransitionDemo/TransitionFlowAndStage.gif?raw=true)
+
+[gliding-collection](https://github.com/Ramotion/gliding-collection)
+--
+> Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller
+
+![](https://github.com/Ramotion/gliding-collection/raw/master/assets/preview.gif)
