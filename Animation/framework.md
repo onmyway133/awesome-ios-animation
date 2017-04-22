@@ -22,6 +22,8 @@ Framework
 - [spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 - [Dance](https://github.com/saoudrizwan/Dance) A radical & elegant animation library for iOS.
 - [material-motion-swift](https://github.com/material-motion/material-motion-swift) Reactive motion for iOS.
+- [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary) Designed for gesture-driven animations. Fast, simple, & extensible!
+- [TweenKit](https://github.com/SteveBarnegren/TweenKit) Animation library for iOS in Swift
 
 Interpolation
 ==
