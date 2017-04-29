@@ -39,3 +39,9 @@
 > Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller
 
 ![](https://github.com/Ramotion/gliding-collection/raw/master/assets/preview.gif)
+
+[BouncyLayout](https://github.com/roberthein/BouncyLayout)
+--
+> Make. It. Bounce.
+
+![](https://github.com/roberthein/BouncyLayout/raw/master/art/gifs/photos.gif)
