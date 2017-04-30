@@ -10,6 +10,7 @@ Posts
 - [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)
 - [CATransaction in Depth](http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html)
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
+- [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing/) :star:
 
 Videos
 ==
