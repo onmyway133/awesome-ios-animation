@@ -15,3 +15,9 @@
 > A set of cool animated page controls written in Swift to replace boring UIPageControl.
 
 ![](https://github.com/ChiliLabs/CHIPageControl/raw/master/Images/demo.gif)
+
+[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl)
+--
+> A flexible UIPageControl like Instagram.
+
+![](https://github.com/shima11/FlexiblePageControl/raw/master/demo.gif)
