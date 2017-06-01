@@ -45,3 +45,10 @@
 > Graceful morphing effects for UILabel written in Swift.
 
 ![](https://cloud.githubusercontent.com/assets/219689/3594949/815cd3e8-0caa-11e4-9738-278a9c959478.gif)
+
+[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+--
+> A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
+
+
+![](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/MarqueeLabelDemo.gif)
