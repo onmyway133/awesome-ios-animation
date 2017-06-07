@@ -51,3 +51,9 @@
 > iOS progress bar, replacement for the default activity indicator.
 
 ![](https://camo.githubusercontent.com/844fa4e1da4498cbcd208a9c0080193a8d42efe8/687474703a2f2f6769742e617273656e6b696e2e636f6d2f4152534c696e6550726f67726573732f4152534c696e6550726f67726573735f70726f67726573735f776974685f737563636573732e676966)
+
+[KRProgressHUD](https://github.com/krimpedance/KRProgressHUD)
+--
+> A beautiful and easy-to-use progress HUD for your iOS.
+
+![](https://github.com/krimpedance/KRProgressHUD/blob/master/Resources/demo.gif)
