@@ -51,3 +51,9 @@
 > This is a funny switch for iOS
 
 ![](https://raw.githubusercontent.com/lilei644/LLSwitch/master/Preview/LLSwitchDemo.gif)
+
+[DayNightSwitch](https://github.com/finngaida/DayNightSwitch)
+--
+> Dribbble inspired switch for day and night status 
+
+![](https://camo.githubusercontent.com/988af26dbccba0dfc7987ef6f825afc7f0b75628/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3437303534352f73637265656e73686f74732f313930393238392f7377697463685f30322e676966)
