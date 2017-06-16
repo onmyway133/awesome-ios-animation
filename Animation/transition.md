@@ -123,4 +123,4 @@ Custom transition between two collection view layouts
 --
 > A delightful way to transition between visual styles in your iOS applications.
 
-![](https://github.com/Boerworz/Gagat/raw/master/gagat_example.gif)
+<img src="https://github.com/Boerworz/Gagat/raw/master/gagat_example.gif" width="320" height="554" />
