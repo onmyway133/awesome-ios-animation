@@ -118,3 +118,9 @@ Custom transition between two collection view layouts
 > Animated UIButton of Loading Animation and Transition Animation. Inspired by https://dribbble.com/shots/1945593-Login-Home-Screen
 
 ![](https://github.com/entotsu/TKSubmitTransition/raw/master/demo.gif)
+
+[Gagat](https://github.com/Boerworz/Gagat)
+--
+> A delightful way to transition between visual styles in your iOS applications.
+
+![](https://github.com/Boerworz/Gagat/raw/master/gagat_example.gif)
