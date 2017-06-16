@@ -11,7 +11,6 @@ Posts
 - [CATransaction in Depth](http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html)
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing/) :star:
-- [Recreating the Castro 2 Night Mode Transition](http://ndersson.me/post/recreating_the_castro_2_night_mode_transition/)
 
 Videos
 ==
@@ -35,3 +34,4 @@ Tutorials
 - [How To Create an Uber Splash Screen](https://www.raywenderlich.com/133224/how-to-create-an-uber-splash-screen)
 - [Case Study: Toonie. Coding UI Animation](https://uxplanet.org/case-study-toonie-coding-ui-animation-68a10323ec0a#.jnyzotgwq)
 - [Recreating Skype's Action Sheet Animation](http://holko.pl/2014/06/26/recreating-skypes-action-sheet-animation/)
+- [Recreating the Castro 2 Night Mode Transition](http://ndersson.me/post/recreating_the_castro_2_night_mode_transition/)
