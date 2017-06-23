@@ -32,7 +32,9 @@
 --
 > 🎊 Fancy confetti effects in Swift
 
-![](https://github.com/hyperoslo/Cheers/raw/master/demo.gif)
+<div align = "center">
+<img src="https://github.com/hyperoslo/Cheers/raw/master/demo.gif" width="300" height="510" />
+</div>
 
 [NumberMorphView](https://github.com/me-abhinav/NumberMorphView)
 --
