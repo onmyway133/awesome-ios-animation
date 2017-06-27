@@ -24,6 +24,7 @@ Framework
 - [material-motion-swift](https://github.com/material-motion/material-motion-swift) Reactive motion for iOS.
 - [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary) Designed for gesture-driven animations. Fast, simple, & extensible!
 - [TweenKit](https://github.com/SteveBarnegren/TweenKit) Animation library for iOS in Swift
+- [YapAnimator](https://github.com/yapstudios/YapAnimator) Your fast and friendly physics-based animation system. 
 
 Interpolation
 ==
