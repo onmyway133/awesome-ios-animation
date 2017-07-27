@@ -35,3 +35,4 @@ Tutorials
 - [Case Study: Toonie. Coding UI Animation](https://uxplanet.org/case-study-toonie-coding-ui-animation-68a10323ec0a#.jnyzotgwq)
 - [Recreating Skype's Action Sheet Animation](http://holko.pl/2014/06/26/recreating-skypes-action-sheet-animation/)
 - [Recreating the Castro 2 Night Mode Transition](http://ndersson.me/post/recreating_the_castro_2_night_mode_transition/)
+- [Animating Pie Slices using a custom CALayer](https://blog.pixelingene.com/2012/02/animating-pie-slices-using-a-custom-calayer/)
