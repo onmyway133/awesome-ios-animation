@@ -124,3 +124,9 @@ Custom transition between two collection view layouts
 > A delightful way to transition between visual styles in your iOS applications.
 
 <img src="https://github.com/Boerworz/Gagat/raw/master/gagat_example.gif" width="320" height="554" />
+
+[Transition](https://github.com/Touchwonders/Transition)
+--
+> Easy interactive interruptible custom ViewController transitions
+
+![](https://github.com/Touchwonders/Transition/raw/master/Documentation/artwork/modal.gif)
