@@ -63,3 +63,9 @@
 > Animated "Pull To Refresh" Library for UIScrollView
 
 ![](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)
+
+[KRPullLoader](https://github.com/krimpedance/KRPullLoader)
+--
+> A `pull to load` control for UIScrollView(, UITableView, UICollectionView, ...).
+
+![](https://github.com/krimpedance/KRPullLoader/blob/master/Resources/demo.gif)
