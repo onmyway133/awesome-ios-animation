@@ -33,3 +33,9 @@ blah
 > Generate and Display Bottom Card Interfaces on iOS
 
 ![](https://raw.githubusercontent.com/alexaubry/BulletinBoard/master/.assets/demo_screenshots.png)
+
+[Mandoline](https://github.com/blueapron/Mandoline)
+--
+> An iOS picker view to serve all your "picking" needs
+
+![](https://github.com/blueapron/Mandoline/raw/master/Mandoline/Assets/rescheduler.gif)
