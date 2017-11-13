@@ -39,4 +39,4 @@ Tutorials
 - [iOS Bubble Animation Tutorial](http://www.jackrabbitmobile.com/design/ios-bubble-animation-tutorial/)
 - [Elastic interactive transition using UIBezierPath](http://yannickloriot.com/2015/12/elastic-interactive-transition-using-uibezierpath/)
 - [UIScrollView's Inertia, Bouncing and Rubber-Banding with UIKit Dynamics](http://holko.pl/2014/07/06/inertia-bouncing-rubber-banding-uikit-dynamics/)
-- []()
+- [LayerPlayer](https://github.com/scotteg/LayerPlayer) Layer Player explores the capabilities of Apple's Core Animation API 
