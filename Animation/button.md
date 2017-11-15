@@ -15,3 +15,15 @@
 > This is a UI lib for iOS. Effects like shining.
 
 ![](https://github.com/631106979/WCLShineButton/raw/master/DemoGif.gif)
+
+[TransitionButton](https://github.com/AladinWay/TransitionButton)
+--
+> UIButton sublass for loading and transition animation.
+
+![](https://camo.githubusercontent.com/522141a47cc93405d5cde41237a497c18ed8d872/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966)
+
+[ZFRippleButton](https://github.com/zoonooz/ZFRippleButton)
+--
+> Custom UIButton effect inspired by Google Material Design
+
+![](https://github.com/zoonooz/ZFRippleButton/raw/master/Screenshot/colored-button.gif)
