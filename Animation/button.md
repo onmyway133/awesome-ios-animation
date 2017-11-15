@@ -27,3 +27,9 @@
 > Custom UIButton effect inspired by Google Material Design
 
 ![](https://github.com/zoonooz/ZFRippleButton/raw/master/Screenshot/colored-button.gif)
+
+[LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)
+--
+> Material Design Floating Action Button in liquid state
+
+![](https://github.com/yoavlt/LiquidFloatingActionButton/raw/master/Demo/top.gif?raw=true)
