@@ -12,3 +12,8 @@ Dropdown
 > Dropdown menu inspired by Vine.
 
 ![](https://github.com/romaonthego/REMenu/raw/master/Demo.gif)
+
+## [Dropdown](https://github.com/hyperoslo/Dropdown)
+> Dropdown in Swift
+
+![](https://github.com/hyperoslo/Dropdown/raw/master/Screenshots/dropdown.gif)
