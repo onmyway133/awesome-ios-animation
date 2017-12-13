@@ -20,7 +20,7 @@ A collection of iOS animation repos
 - [Menu](Animation/menu.md)
 - [Permission](Animation/permission.md)
 - [Dropdown](Animation/dropdown.md)
-- [TableView](Animation/tableview.md)
+- [TableView / CollectionView](Animation/tableview.md)
 - [Progress](Animation/progress.md)
 - [Layout](Animation/layout.md)
 - [Action Sheet](Animation/actionsheet.md)
