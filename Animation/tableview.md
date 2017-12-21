@@ -26,3 +26,8 @@
 > ExpandingCollection is an animated material design UI card peek/pop controller
 
 ![](https://github.com/Ramotion/expanding-collection/raw/master/preview.gif)
+
+## [CollectionKit](https://github.com/SoySauceLab/CollectionKit)
+> A modern Swift framework for building reusable data-driven collection components.
+
+![](https://camo.githubusercontent.com/65365a025b94c54a78983f568f2466239356ce5f/687474703a2f2f6c6b7a68616f2e636f6d2f7075626c69632f706f7374732f636f6c6c656374696f6e4b69742f65646765536872696e6b2e676966)
