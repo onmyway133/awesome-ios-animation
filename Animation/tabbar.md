@@ -46,12 +46,6 @@
 
 ![](https://raw.githubusercontent.com/antiguab/BATabBarController/master/readmeAssets/gif2.gif)
 
-[Tabby](https://github.com/hyperoslo/Tabby)
---
-> Tabby is the new solution for your tab bar.
-
-![]()
-
 [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)
 --
 > Inspired by this project on Dribbble https://dribbble.com/shots/2702517-Review-App-Concept
@@ -75,3 +69,8 @@
 > ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
 
 ![](https://github.com/eggswift/ESTabBarController/raw/master/Resources/LottieGif.gif)
+
+## [Parchment](https://github.com/rechsteiner/Parchment)
+> A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources
+
+![](https://camo.githubusercontent.com/c04daaad3c566f7f1a34a9c67cce51fe751ddf27/68747470733a2f2f73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d73776966742f70617263686d656e742d756e73706c6173682e676966)
