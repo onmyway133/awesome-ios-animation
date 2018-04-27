@@ -65,3 +65,8 @@
 > Show the weather effects onto view written in Swift3
 
 ![](https://github.com/jegumhon/URWeatherView/raw/master/Artwork/URWeather_snow.gif?raw=true)
+
+## [LoginCritter](https://github.com/cgoldsby/LoginCritter)
+> An animated avatar that responds to text field interactions
+
+![](https://github.com/cgoldsby/LoginCritter/raw/master/assets/demo.gif)
