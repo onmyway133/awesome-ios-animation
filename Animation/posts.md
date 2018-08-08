@@ -10,6 +10,7 @@ Posts
 - [CATransaction in Depth](http://calayer.com/core-animation/2016/05/17/catransaction-in-depth.html)
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing/) :star:
+- [Building Better iOS App Animations](https://medium.com/swiftkickmobile/building-better-ios-app-animations-swift-uiviewpropertyanimator-ca05728b1fa4)
 
 Videos
 ==
