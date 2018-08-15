@@ -11,6 +11,7 @@ Posts
 - [Animations Explained](https://www.objc.io/issues/12-animations/animations-explained/) :star:
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing/) :star:
 - [Building Better iOS App Animations](https://medium.com/swiftkickmobile/building-better-ios-app-animations-swift-uiviewpropertyanimator-ca05728b1fa4)
+- [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)
 
 Videos
 ==
