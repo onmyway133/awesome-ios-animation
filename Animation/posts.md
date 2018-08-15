@@ -13,6 +13,7 @@ Posts
 - [Building Better iOS App Animations](https://medium.com/swiftkickmobile/building-better-ios-app-animations-swift-uiviewpropertyanimator-ca05728b1fa4)
 - [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5) :star::star:
 - [Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
+- [Reverse-Engineering the iPhone X Home Indicator Color](https://medium.freecodecamp.org/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34)
 
 Videos
 ==
