@@ -12,6 +12,7 @@ Posts
 - [Controlling Animation Timing](http://ronnqvi.st/controlling-animation-timing/) :star:
 - [Building Better iOS App Animations](https://medium.com/swiftkickmobile/building-better-ios-app-animations-swift-uiviewpropertyanimator-ca05728b1fa4)
 - [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5) :star::star:
+- [Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
 
 Videos
 ==
