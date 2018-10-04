@@ -74,3 +74,8 @@
 > A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources
 
 ![](https://camo.githubusercontent.com/c04daaad3c566f7f1a34a9c67cce51fe751ddf27/68747470733a2f2f73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d73776966742f70617263686d656e742d756e73706c6173682e676966)
+
+## [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab)
+> TransitionableTab makes it easy to animate when switching between tab.
+
+![](https://github.com/Interactive-Studio/TransitionableTab/blob/master/Resource/move.gif)
