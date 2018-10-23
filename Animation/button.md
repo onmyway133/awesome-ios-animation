@@ -33,3 +33,8 @@
 > Material Design Floating Action Button in liquid state
 
 ![](https://github.com/yoavlt/LiquidFloatingActionButton/raw/master/Demo/top.gif?raw=true)
+
+## [LGButton](https://github.com/loregr/LGButton)
+> A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
+
+![](https://github.com/loregr/LGButton/raw/develop/media/preview_btn.png)
