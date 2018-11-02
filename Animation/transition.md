@@ -130,3 +130,9 @@ Custom transition between two collection view layouts
 > Easy interactive interruptible custom ViewController transitions
 
 ![](https://github.com/Touchwonders/Transition/raw/master/Documentation/artwork/modal.gif)
+
+[LiquidTransition](https://github.com/AlexandrGraschenkov/LiquidTransition)
+--
+> Removes boilerplate code to perform transition, allows backward animations, custom properties animation and much more!
+
+![](https://github.com/AlexandrGraschenkov/LiquidTransition/raw/screenshots/gif/complex_animation.gif)
