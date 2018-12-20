@@ -42,3 +42,7 @@ Design
 
 - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
  
+ Showcase
+ ==
+ 
+ - [Animations in iOS: 30 beautiful examples](https://medium.com/flawless-app-stories/animations-in-ios-30-beautiful-examples-80cb2663c559)
