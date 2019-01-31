@@ -70,3 +70,9 @@
 > An animated avatar that responds to text field interactions
 
 ![](https://github.com/cgoldsby/LoginCritter/raw/master/assets/demo.gif)
+
+[Perspective](https://github.com/yannickl/Perspective)
+--
+> Powerful scrolling and motion parallax for iOS
+
+![](https://user-images.githubusercontent.com/798235/51496460-24cf4300-1dc0-11e9-9d6c-97d753498f5b.gif)
