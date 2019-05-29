@@ -31,6 +31,7 @@ Posts
 - [LayerPlayer](https://github.com/scotteg/LayerPlayer) Layer Player explores the capabilities of Apple's Core Animation API
 - [Bring Your App To Life with CALayers](https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/)
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
+- [Building Better iOS App Animations](http://www.swiftkickmobile.com/building-better-app-animations-swift-uiviewpropertyanimator/) :rocket:
 
 Books
 ==
