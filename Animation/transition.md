@@ -28,6 +28,12 @@
 
 ![](https://github.com/jonathantribouharet/JTMaterialTransition/raw/master/Screens/example.gif)
 
+[AppstoreTransition](https://github.com/appssemble/appstore-card-transition)
+--
+> An iOS transition for controllers based on material design.
+
+![](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example4.gif)
+
 [KWTransition](https://github.com/KurtWagner/KWTransition)
 --
 > Experimental Implementations of UIViewControllerAnimatedTransitioning
