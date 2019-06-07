@@ -32,7 +32,7 @@
 --
 > An iOS transition that simulates the appstore card transition.
 
-![](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example4.gif)
+![](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example3.gif)
 
 [KWTransition](https://github.com/KurtWagner/KWTransition)
 --
