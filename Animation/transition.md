@@ -30,7 +30,7 @@
 
 [AppstoreTransition](https://github.com/appssemble/appstore-card-transition)
 --
-> An iOS transition for controllers based on material design.
+> An iOS transition that simulates the appstore card transition.
 
 ![](https://github.com/appssemble/appstore-card-transition/raw/master/gif/example4.gif)
 
