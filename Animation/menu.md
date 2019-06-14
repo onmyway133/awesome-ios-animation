@@ -66,3 +66,8 @@ You can easily add awesome animated context menu to your app
 > The iOS Menu Codea
 
 ![](https://camo.githubusercontent.com/2b472d44a26b03ca566a822ff6e0f5636edadcd1/68747470733a2f2f636f6465612e696f2f6d656469612f6d656e752e706e67)
+
+## [PopMenu](https://github.com/CaliCastle/PopMenu)
+> A fully customizable popup style menu for iOS
+
+![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
