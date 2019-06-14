@@ -11,3 +11,8 @@ Slider
 > A slider widget with a popup bubble displaying the precise value selected
 
 ![](https://github.com/Ramotion/fluid-slider/raw/master/preview.gif)
+
+## [balloon-picker](https://github.com/Cuberto/balloon-picker)
+> Custom picker view with floating balloon animation
+
+![](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
