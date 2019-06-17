@@ -32,6 +32,7 @@ Posts
 - [Bring Your App To Life with CALayers](https://realm.io/news/altconf-stephen-barnes-bring-your-app-to-life-calayer/)
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
 - [Building Better iOS App Animations](http://www.swiftkickmobile.com/building-better-app-animations-swift-uiviewpropertyanimator/) :rocket:
+- [Advanced Animations with UIViewPropertyAnimator](https://www.appcoda.com/interactive-animation-uiviewpropertyanimator/) :star:
 
 Books
 ==
