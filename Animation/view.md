@@ -76,3 +76,8 @@
 > Powerful scrolling and motion parallax for iOS
 
 ![](https://user-images.githubusercontent.com/798235/51496460-24cf4300-1dc0-11e9-9d6c-97d753498f5b.gif)
+
+[liquid-swipe](https://github.com/Cuberto/liquid-swipe)
+> Lidquid swipe animation
+
+![](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
