@@ -15,3 +15,8 @@
 > A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift. As used in the Skyscanner TravelPro iOS app.
 
 ![](https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/showcase-example.gif)
+
+[ParkedTextField](https://github.com/gmertk/ParkedTextField)
+> A text field with a constant text/placeholder
+
+![](https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif)
