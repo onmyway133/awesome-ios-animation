@@ -50,3 +50,8 @@ Design
  
  - [Animations in iOS: 30 beautiful examples](https://medium.com/flawless-app-stories/animations-in-ios-30-beautiful-examples-80cb2663c559)
 - [Animations in iOS: Tab Bar concepts](https://medium.com/flawless-app-stories/animations-in-ios-tab-bar-concepts-e1fd73ddac67)
+
+Advanced
+==
+
+- [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
