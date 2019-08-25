@@ -26,8 +26,8 @@ Framework
 - [YapAnimator](https://github.com/yapstudios/YapAnimator) Your fast and friendly physics-based animation system. 
 - [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ViewAnimator brings your UI to life with just one line
 - [Ease](https://github.com/roberthein/Ease) Animate everything with Ease
-
-Interpolation
-==
-
 - [Popsicle](https://github.com/DavdRoman/Popsicle) Delightful, extensible Swift value interpolation framework
+
+## Resources
+
+- [Use Animations](https://useanimations.com/) Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
