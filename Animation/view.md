@@ -81,3 +81,8 @@
 > Lidquid swipe animation
 
 ![](https://raw.githubusercontent.com/Cuberto/liquid-swipe/master/Screenshots/animation.gif)
+
+[FillableLoaders](https://github.com/polqf/FillableLoaders)
+> Completely customizable progress based loaders drawn using custom CGPaths written in Swift
+
+![](https://github.com/polqf/FillableLoaders/raw/master/Images/progress.gif)
