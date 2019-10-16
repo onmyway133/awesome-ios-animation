@@ -27,6 +27,7 @@ Framework
 - [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ViewAnimator brings your UI to life with just one line
 - [Ease](https://github.com/roberthein/Ease) Animate everything with Ease
 - [Popsicle](https://github.com/DavdRoman/Popsicle) Delightful, extensible Swift value interpolation framework
+- [swiftTweener](https://github.com/alexrvarela/swiftTweener) Animation engine for iOs written in pure Swift :star:
 
 ## Resources
 
