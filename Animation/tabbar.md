@@ -73,7 +73,7 @@
 ## [Parchment](https://github.com/rechsteiner/Parchment)
 > A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources
 
-![](https://camo.githubusercontent.com/c04daaad3c566f7f1a34a9c67cce51fe751ddf27/68747470733a2f2f73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d73776966742f70617263686d656e742d756e73706c6173682e676966)
+![](https://camo.githubusercontent.com/22b75f81989e7d3d2ae9385e852ba941e9b3a6d5/68747470733a2f2f72656368737465696e65722d70617263686d656e742e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d756e706c6173682e676966)
 
 ## [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab)
 > TransitionableTab makes it easy to animate when switching between tab.
