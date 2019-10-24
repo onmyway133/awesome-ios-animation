@@ -86,3 +86,9 @@
 > Completely customizable progress based loaders drawn using custom CGPaths written in Swift
 
 ![](https://github.com/polqf/FillableLoaders/raw/master/Images/progress.gif)
+
+
+## [CLWaterWaveView](https://github.com/cristi-lupu/CLWaterWaveView)
+> A UIView what able to show water wave effect
+
+![](https://github.com/cristi-lupu/CLWaterWaveView/raw/master/demo.gif)
