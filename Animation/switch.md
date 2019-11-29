@@ -63,3 +63,7 @@
 
 ![](https://camo.githubusercontent.com/255e71858b8e1122f642c67348acf07b1dc9b5fc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f662e636c2e6c792f6974656d732f3170307733423045336d3249326b3365307a31512f6f6e6f66662e676966)
 
+## [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)
+> An animation switch collection
+
+![](https://github.com/TBXark/TKSwitcherCollection/raw/master/Images/simple2.gif)
