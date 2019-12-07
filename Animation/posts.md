@@ -33,6 +33,7 @@ Posts
 - [The iOS Menu](https://codea.io/blog/the-ios-menu/)
 - [Building Better iOS App Animations](http://www.swiftkickmobile.com/building-better-app-animations-swift-uiviewpropertyanimator/) :rocket:
 - [Advanced Animations with UIViewPropertyAnimator](https://www.appcoda.com/interactive-animation-uiviewpropertyanimator/) :star:
+- [Implementing a Peel-Off Animation](https://robb.is/working-on/a-peel-off-animation)
 
 Books
 ==
