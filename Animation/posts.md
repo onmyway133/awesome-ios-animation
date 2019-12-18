@@ -57,7 +57,7 @@ Advanced
 
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 
-## SwiftUI
+# SwiftUI
 
 - [Custom controls in SwiftUI](https://izakpavel.github.io/development/2019/11/28/creating-custom-views-in-swiftui.html)
 - [Advanced SwiftUI Animations](https://swiftui-lab.com/category/animations/)
