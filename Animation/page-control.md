@@ -21,3 +21,9 @@
 > A flexible UIPageControl like Instagram.
 
 ![](https://github.com/shima11/FlexiblePageControl/raw/master/demo.gif)
+
+[AdvancedPageControl](https://github.com/mohn93/AdvancedPageControl)
+--
+> A simple yet powerful page control indicator animations library for IOS.
+
+![](https://github.com/mohn93/AdvancedPageControl/raw/master/Example/advanced-page-control-demo.gif)
