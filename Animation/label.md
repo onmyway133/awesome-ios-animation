@@ -51,3 +51,8 @@
 > A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame.
 
 ![](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
+
+## [GhostTypewriter](https://github.com/wibosco/GhostTypewriter)
+> A UILabel subclass that adds a typewriting animation effect
+
+![](https://github.com/wibosco/GhostTypewriter/raw/master/typingAnimation.gif)
