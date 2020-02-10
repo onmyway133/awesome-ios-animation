@@ -79,3 +79,8 @@
 > TransitionableTab makes it easy to animate when switching between tab.
 
 ![](https://github.com/Interactive-Studio/TransitionableTab/blob/master/Resource/move.gif)
+
+## [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController)
+> UITabBarController with swipe interaction between its tabs.
+
+![](https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/Resources/GIFs/SideBySideAnimation.gif)
