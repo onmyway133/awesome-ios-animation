@@ -34,6 +34,7 @@ Posts
 - [Building Better iOS App Animations](http://www.swiftkickmobile.com/building-better-app-animations-swift-uiviewpropertyanimator/) :rocket:
 - [Advanced Animations with UIViewPropertyAnimator](https://www.appcoda.com/interactive-animation-uiviewpropertyanimator/) :star:
 - [Implementing a Peel-Off Animation](https://robb.is/working-on/a-peel-off-animation)
+- [Animated UILabel with CADisplayLink](https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5)
 
 Books
 ==
