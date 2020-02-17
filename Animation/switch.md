@@ -67,3 +67,8 @@
 > An animation switch collection
 
 ![](https://github.com/TBXark/TKSwitcherCollection/raw/master/Images/simple2.gif)
+
+## [SwiftUIiOS6Toggle](https://github.com/elvin-hu/SwiftUIiOS6Toggle)
+> iOS 6 style toggle implemented with SwiftUI
+
+![](https://github.com/elvin-hu/SwiftUIiOS6Toggle/raw/master/preview.gif)
