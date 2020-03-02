@@ -28,6 +28,7 @@ Framework
 - [Ease](https://github.com/roberthein/Ease) Animate everything with Ease
 - [Popsicle](https://github.com/DavdRoman/Popsicle) Delightful, extensible Swift value interpolation framework
 - [swiftTweener](https://github.com/alexrvarela/swiftTweener) Animation engine for iOs written in pure Swift :star:
+- [swift-numeric-springing](https://github.com/LactoseGK/swift-numeric-springing) Numeric springing library
 
 ## Resources
 
