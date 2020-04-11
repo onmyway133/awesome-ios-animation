@@ -92,3 +92,8 @@
 > A UIView what able to show water wave effect
 
 ![](https://github.com/cristi-lupu/CLWaterWaveView/raw/master/demo.gif)
+
+## [metaballs](https://github.com/rnkyr/metaballs)
+> Blob effect implementation with UIKIt
+
+![](https://github.com/rnkyr/metaballs/raw/master/resources/example.gif)
