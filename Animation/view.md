@@ -97,3 +97,8 @@
 > Blob effect implementation with UIKIt
 
 ![](https://github.com/rnkyr/metaballs/raw/master/resources/example.gif)
+
+## [MovingNumbersView](https://github.com/aunnnn/MovingNumbersView)
+> Moving numbers effect in SwiftUI
+
+![](https://raw.githubusercontent.com/aunnnn/MovingNumbersView/master/README-Resources/mvnemoji.gif)
