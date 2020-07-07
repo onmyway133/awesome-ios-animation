@@ -1,6 +1,6 @@
 [iCarousel](https://github.com/nicklockwood/iCarousel)
 --
-> A libary for paging with many beautiful animations like time machine, cover flow, linear and also you can create your own custom animation.
+> A libary for paging with many beautiful animations like time machine, cover flow, linear. Also you can create your own custom animation.
 ![](https://camo.githubusercontent.com/42a9e068bb8aab651d25a0998da709719704ce34/687474703a2f2f672e7265636f726469742e636f2f517032453559364d41652e676966)
 
 
