@@ -130,3 +130,11 @@ Custom transition between two collection view layouts
 > Easy interactive interruptible custom ViewController transitions
 
 ![](https://github.com/Touchwonders/Transition/raw/master/Documentation/artwork/modal.gif)
+
+
+[DropdownTransition](https://github.com/Touchwonders/Transition)
+--
+> Simple and elegant dropdown transition for iOS
+
+<img src="https://github.com/nugmanoff/DropdownTransition/blob/master/Resources/demo-default.gif" width="414" height="900" />
+
