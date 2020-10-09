@@ -38,3 +38,9 @@
 > A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 
 ![](https://github.com/loregr/LGButton/raw/develop/media/preview_btn.png)
+
+## [PMSuperButton](https://github.com/pmusolino/PMSuperButton)
+
+> PMSuperButton is a powerful UIButton coming from the countryside, but with super powers!
+
+![](https://github.com/pmusolino/PMSuperButton/raw/master/docs/checkbox_button.gif?raw=true)
