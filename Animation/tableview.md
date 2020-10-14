@@ -36,3 +36,8 @@
 > FlippingNotch 🤙 - Dribble inspired animation dribbble.com/shots/4089014-Pull-To-Refresh-iPhone-X
 
 ![](https://camo.githubusercontent.com/50fe7a3fc078b688aaeb0421033d890732ccc0ce/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3739333035372f73637265656e73686f74732f343038393031342f6970686f6e652d782d70756c6c2d746f2d726566726573682e676966)
+
+## [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)
+> A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
+
+![](https://github.com/JoniVR/VerticalCardSwiper/raw/master/example.gif)
