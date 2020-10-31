@@ -84,3 +84,8 @@
 > UITabBarController with swipe interaction between its tabs.
 
 ![](https://github.com/marcosgriselli/SwipeableTabBarController/raw/master/Resources/GIFs/SideBySideAnimation.gif)
+
+## [SOTabBar](https://github.com/Ahmadalsofi/SOTabBar)
+> Light way to add Fancy bottom bar 
+
+![](https://github.com/Ahmadalsofi/SOTabBar/raw/master/Screenshots/headerGif.gif)
