@@ -16,3 +16,8 @@ Slider
 > Custom picker view with floating balloon animation
 
 ![](https://raw.githubusercontent.com/Cuberto/balloon-picker/master/Screenshots/animation.gif)
+
+## [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)
+> A custom reusable circular / progress slider control for iOS application.
+
+![](https://github.com/HamzaGhazouani/HGCircularSlider/raw/master/Screenshots/Bedtime.gif)
