@@ -57,3 +57,8 @@
 > A beautiful and easy-to-use progress HUD for your iOS.
 
 ![](https://github.com/krimpedance/KRProgressHUD/blob/master/Resources/demo.gif)
+
+## [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress)
+> Customizable progress indicator library in Swift
+
+![](https://github.com/keygx/GradientCircularProgress/raw/master/images/scr_BlueDarkStyle_01.png)
