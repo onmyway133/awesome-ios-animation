@@ -57,3 +57,8 @@
 > VegaScroll is a lightweight animation flowlayout
 
 ![](https://camo.githubusercontent.com/bb984a34320d944ccf561857995c90629f5037a0/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f646334323539613135303438303136333139393038353836)
+
+## [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider)
+> GravitySlider is a beautiful alternative to the standard UICollectionView flow layout.
+
+![](https://camo.githubusercontent.com/06e01a298d7440af750a80284da9bf98584a9a036d173a2e37980ae37c8b34bd/68747470733a2f2f662e666c6f636b75736572636f6e74656e74322e636f6d2f353434626562663135303736343632333334613663306637)
