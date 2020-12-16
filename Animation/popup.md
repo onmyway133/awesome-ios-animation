@@ -9,3 +9,8 @@
 > A simple and flexible class for presenting custom views as a popup in iOS.
 
 ![](https://camo.githubusercontent.com/fa55b0b8650bb99023a3aee5c1fa891a01832b57/687474703a2f2f692e696d6775722e636f6d2f42456d524762352e676966)
+
+## [PopMenu](https://github.com/CaliCastle/PopMenu)
+> A fully customizable popup style menu for iOS 
+
+![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
