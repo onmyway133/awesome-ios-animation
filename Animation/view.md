@@ -107,3 +107,8 @@
 > Windless makes it easy to implement invisible layout loading view.
 
 ![](https://github.com/ParkGwangBeom/Windless/raw/master/Resource/table.gif)
+
+## [SwiftFortuneWheel](https://github.com/sh-khashimov/SwiftFortuneWheel)
+> The ultimate spinning wheel view that supports dynamic content and rich customization.
+
+![](https://github.com/sh-khashimov/SwiftFortuneWheel/raw/master/Images/layout.gif)
