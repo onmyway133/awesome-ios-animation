@@ -62,3 +62,8 @@
 > Customizable progress indicator library in Swift
 
 ![](https://github.com/keygx/GradientCircularProgress/raw/master/images/scr_BlueDarkStyle_01.png)
+
+## [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress)
+> A circular progress view with gradients written in Swift
+
+![](https://raw.githubusercontent.com/kaandedeoglu/KDCircularProgress/master/Assets/screenshot.gif)
