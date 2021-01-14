@@ -44,3 +44,8 @@
 > PMSuperButton is a powerful UIButton coming from the countryside, but with super powers!
 
 ![](https://github.com/pmusolino/PMSuperButton/raw/master/docs/checkbox_button.gif?raw=true)
+
+## [loady](https://github.com/farshadjahanmanesh/loady)
+> fully customizable loading button with 9 different styles
+
+![]()
