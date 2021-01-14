@@ -48,4 +48,4 @@
 ## [loady](https://github.com/farshadjahanmanesh/loady)
 > fully customizable loading button with 9 different styles
 
-![]()
+![](https://github.com/farshadjahanmanesh/loady/raw/master/examples/_gif.gif)
