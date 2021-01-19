@@ -76,3 +76,8 @@ You can easily add awesome animated context menu to your app
 > A redesigned menu for Gmail iOS app, implemented using SwiftUI
 
 ![](https://camo.githubusercontent.com/4eba287d7501661cfb3e9c57a58d517b57e9e46c/68747470733a2f2f616d69722e6170702f676d656e752f707265766965772d6461726b2e676966)
+
+## [fan-menu](https://github.com/exyte/fan-menu)
+> Menu with a circular layout based on Macaw
+
+![](https://raw.githubusercontent.com/exyte/fan-menu/master/demo.gif)
