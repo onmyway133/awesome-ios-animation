@@ -56,3 +56,9 @@
 > A UILabel subclass that adds a typewriting animation effect
 
 ![](https://github.com/wibosco/GhostTypewriter/raw/master/typingAnimation.gif)
+
+## [UICountingLabel](https://github.com/dataxpress/UICountingLabel)
+> Adds animated counting support to UILabel.
+
+![](https://github.com/dataxpress/UICountingLabel/raw/master/demo.gif)
+
