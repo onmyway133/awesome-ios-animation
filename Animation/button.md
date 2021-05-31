@@ -49,3 +49,8 @@
 > fully customizable loading button with 9 different styles
 
 ![](https://github.com/farshadjahanmanesh/loady/raw/master/examples/_gif.gif)
+
+## [QBIndicatorButton](https://github.com/sjc-bui/QBIndicatorButton)
+> Simple way to display activity indicator inside the button and more custom
+
+![](https://raw.githubusercontent.com/sjc-bui/QBIndicatorButton/master/Example/Screenshots/QBIndicatorButton.gif)
