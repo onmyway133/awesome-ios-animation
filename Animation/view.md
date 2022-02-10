@@ -1,3 +1,9 @@
+[IParallaxAndHapticEffect](https://github.com/Omilr/IParallaxAndHapticEffect)
+--
+> ✨ Super easy Parallax and Haptic Effect.
+
+![](https://user-images.githubusercontent.com/81509766/153190916-9051f1df-3f0c-42df-acc1-6400104f2a11.gif)
+
 [BAFluidView](https://github.com/antiguab/BAFluidView)
 --
 > UIView that simulates a 2D view of a fluid in motion
