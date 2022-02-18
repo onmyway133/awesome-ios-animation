@@ -1,3 +1,12 @@
+## [IAMPopup](https://github.com/camosss/IAMPopup)
+
+> IAMPopup is a simple class for expressing custom popup in various forms. This includes where to display the popup and space to decorate the View.
+
+
+<img src = "https://user-images.githubusercontent.com/93528918/149862217-62946646-4c47-47d6-a4d9-e4341610957c.gif" width="30%" height="30%">
+
+
+
 [CNPPopupController](https://github.com/carsonperrotti/CNPPopupController)
 --
 > CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.
@@ -14,3 +23,5 @@
 > A fully customizable popup style menu for iOS 
 
 ![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+
+
