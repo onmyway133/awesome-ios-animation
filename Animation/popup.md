@@ -14,3 +14,9 @@
 > A fully customizable popup style menu for iOS 
 
 ![](https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif)
+
+
+## [IAMPopup](https://github.com/camosss/IAMPopup)
+> IAMPopup is a simple class for expressing custom popup in various forms.
+
+![](https://user-images.githubusercontent.com/93528918/149862217-62946646-4c47-47d6-a4d9-e4341610957c.gif)
