@@ -1,4 +1,4 @@
-[IAMPopup](https://github.com/camosss/IAMPopup)
+## [IAMPopup](https://github.com/camosss/IAMPopup)
 
 > IAMPopup is a simple class for expressing custom popup in various forms. This includes where to display the popup and space to decorate the View.
 
