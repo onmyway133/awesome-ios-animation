@@ -36,6 +36,14 @@ Posts
 - [Implementing a Peel-Off Animation](https://robb.is/working-on/a-peel-off-animation)
 - [Animated UILabel with CADisplayLink](https://medium.com/@duwei199714/animated-uilabel-with-cadisplaylink-9a761d693ca5)
 
+## Videos
+
+- [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/) WWDC 2018
+
+## Repos
+
+- [FluidInterfacesSwiftUI](https://github.com/FradSer/FluidInterfacesSwiftUI)
+
 Books
 ==
 
