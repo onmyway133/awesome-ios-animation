@@ -29,6 +29,7 @@ Framework
 - [Popsicle](https://github.com/DavdRoman/Popsicle) Delightful, extensible Swift value interpolation framework
 - [swiftTweener](https://github.com/alexrvarela/swiftTweener) Animation engine for iOs written in pure Swift :star:
 - [swift-numeric-springing](https://github.com/LactoseGK/swift-numeric-springing) Numeric springing library
+- [Wave](https://github.com/jtrivedi/Wave) Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
 
 ## Resources
 
