@@ -43,6 +43,7 @@ Posts
 ## Repos
 
 - [FluidInterfacesSwiftUI](https://github.com/FradSer/FluidInterfacesSwiftUI)
+- [purposeful-ios-animations](https://github.com/GetStream/purposeful-ios-animations) ⭐
 
 Books
 ==
