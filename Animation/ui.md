@@ -15,3 +15,9 @@
 > NavigationStack is a stack-modeled navigation controller
 
 ![](https://github.com/Ramotion/navigation-stack/raw/master/Navigation-Stack.gif)
+
+[ElegantTimeline-SwiftUI](https://github.com/ThasianX/ElegantTimeline-SwiftUI)
+--
+> Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.
+
+![](https://github.com/ThasianX/ElegantTimeline-SwiftUI/raw/master/Screenshots/scroll-back-to-today.png)
